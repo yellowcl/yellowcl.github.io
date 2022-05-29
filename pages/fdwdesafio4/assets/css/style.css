@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.logo-navbar {
+    height: 30px;
+}
+
+.card {
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.card-text-1 {
+    font-weight: 300;
+    font-size: 20pt;
+    color: #212529;
+}
+
+.card-text-2 {
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+}
+
+.card-text-3 {
+    font-weight: 300;
+    font-size: 13pt;
+    color: #707070;
+    padding-bottom: 0.5rem;
+}
+
+.precio-1 {
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+    padding-top: 3.9pt;
+    padding-right: 13pt;
+}
+
+.precio-2 {
+    font-weight: 500;
+    font-size: 20pt;
+    color: #28A745;
+}
+
+.separation {
+    margin-bottom: 1rem;
+}
+
+.formulario {
+    width: 90%;
+    margin: auto;
+    background-color: #28A745;
+    padding: 2rem;
+}
+
+.text-formulario {
+    font-weight: 500;
+    font-size: 21pt;
+    color: #fff;
+}
+
+.img-footer {
+    width: 100px;
+}
+
+.text-footer {
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+}

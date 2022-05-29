@@ -1,0 +1,122 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000;
+}
+
+.text-1 {
+    padding: 1.5rem;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.img-1 {
+    width: 100%;
+}
+
+.caja-1 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 3rem;
+}
+
+.text-2 {
+    width: 45%;
+    font-weight: 300;
+    font-size: 16px;
+    color: #fff;
+    text-align: left;
+    padding-left: 12rem;
+}
+
+.img-2 {
+    width: 25%;
+    padding-left: 4rem;
+}
+
+.separation-text {
+    padding-bottom: 1rem;
+}
+
+
+.text-2,
+.img-2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.caja-2 {
+    background-color: #1E1A13;
+    padding: 6rem;
+}
+
+.text-3 {
+    font-weight: 500;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.icons {
+    width: 24%;
+    font-weight: 300;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle
+}
+
+.centrado {
+    text-align: center;
+}
+
+.top-text {
+    padding-top: 1rem;
+}
+
+.caja-3 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 3rem;
+    text-align: center;
+}
+
+.img-3 {
+    width: 316px;
+    height: 202px;
+}
+
+.img-4 {
+    width: 316px;
+    height: 202px;
+    padding-left: 5.5rem;
+}
+
+.img-5 {
+    width: 316px;
+    height: 202px;
+    padding-left: 5.5rem;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.text-footer {
+    padding: 3rem;
+    background-color: #1E1A13;
+    font-weight: 300;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
